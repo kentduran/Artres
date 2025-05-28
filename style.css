@@ -180,7 +180,7 @@ nav {
 .main-nav-links li a.active-nav-link::after {
     content: '';
     position: absolute;
-    bottom: 0;
+    bottom: -5;
     left: 0;
     width: 100%;
     height: 3px;
